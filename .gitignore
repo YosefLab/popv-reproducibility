@@ -1,0 +1,39 @@
+# Temp files
+.DS_Store
+*~
+
+# Large files
+**/*.h5ad
+**/*.rds
+**/*.pdf
+**/*.csv
+**/*.pt
+**/pretrained_models/
+**/pretrained_model/
+**/pretrained_model_cluster_id/
+**/*.h5seurat
+
+
+# Compiled files
+.venv/
+__pycache__/
+.mypy_cache/
+.ruff_cache/
+
+# Distribution / packaging
+/build/
+/dist/
+/*.egg-info/
+
+# Tests and coverage
+/.pytest_cache/
+/.cache/
+/data/
+
+# docs
+/docs/generated/
+/docs/_build/
+
+# IDEs
+/.idea/
+/.vscode/
