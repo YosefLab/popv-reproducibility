@@ -1,4 +1,4 @@
-# pope-reproducibility
+# popv-reproducibility
 Reproducibility for popV
 
 Reproducibility notebooks to recreate figures from the manuscript, clean up Tabula sapiens and generate ontologies
