@@ -12,6 +12,7 @@
 **/pretrained_model/
 **/pretrained_model_cluster_id/
 **/*.h5seurat
+**/*nlp*
 
 
 # Compiled files
